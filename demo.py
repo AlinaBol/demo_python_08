@@ -9,3 +9,4 @@ def get_sum(x, y):
 
 def get_minus(x, y):
     return x - y
+    print('Hello')
